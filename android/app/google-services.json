@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "766151640143",
+    "firebase_url": "https://nutrion-597b9-default-rtdb.firebaseio.com",
+    "project_id": "nutrion-597b9",
+    "storage_bucket": "nutrion-597b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766151640143:android:1ea9e61c528f185fe4163a",
+        "android_client_info": {
+          "package_name": "com.healths.nutriscans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766151640143-1a7gs9te7g0sg83fklrh6l7v8oeh99sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healths.nutriscans",
+            "certificate_hash": "bfb4fb94e76dad6cd06ee394af9694a493550947"
+          }
+        },
+        {
+          "client_id": "766151640143-scv9cvkrtp5fvi539hkh1q1gqrj7mvpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healths.nutriscans",
+            "certificate_hash": "8954d835db12f64ab19bc09cda5f95e45f6eb317"
+          }
+        },
+        {
+          "client_id": "766151640143-d5emds6qn79cia63cs6f57uq9rfulo8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKSVJLrJJX8GByAMBfE8ePaisr10HAixY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766151640143-d5emds6qn79cia63cs6f57uq9rfulo8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
